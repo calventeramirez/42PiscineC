@@ -6,7 +6,7 @@ Bienvenido a la Piscina 42 de C
 Este repositorio es una guía completa para ayudarte a prepararte y tener éxito en la Piscina de programación en el lenguaje C de la 42. Si estás interesado en aprender a programar en C y deseas un desafío emocionante, la Piscina 42 es el lugar adecuado para ti.
 ¿Qué es la Piscina 42 de C?
 
-La Piscina 42 de C es un intenso programa de aprendizaje de programación ofrecido por la famosa escuela 42. Durante 2 a 4 semanas (dependiendo de la ubicación), los participantes se sumergen en el mundo de la programación en C y aprenden a resolver problemas, desarrollar habilidades de pensamiento lógico y mejorar su capacidad para trabajar en equipo.
+La Piscina 42 de C es un intenso programa de aprendizaje de programación ofrecido por la famosa escuela 42. Durante 4 semanas, los participantes se sumergen en el mundo de la programación en C y aprenden a resolver problemas, desarrollar habilidades de pensamiento lógico y mejorar su capacidad para trabajar en equipo.
 ¿Qué encontrarás en este repositorio?
 
 Este repositorio tiene como objetivo proporcionarte todos los recursos necesarios para prepararte para la Piscina 42 de C. Aquí encontrarás:
